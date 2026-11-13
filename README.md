@@ -14,7 +14,7 @@ When the questions are done, it shows you a short profile and offers to save it,
 
 ## Install
 
-**Claude apps (web, desktop, mobile):** download `job-hunt-partner.skill` from the [latest release](../../releases/latest) (or from `dist/` in this repo), open it in Claude and save it as a skill. You can also upload it in Claude's skills settings.
+**Claude apps (web, desktop, mobile):** [download job-hunt-partner.skill](https://github.com/mahdiverse/job-hunt-partner/raw/main/dist/job-hunt-partner.skill), open it in Claude and save it as a skill. You can also upload it in Claude's skills settings.
 
 **Claude Code:** copy the `job-hunt-partner` folder into `~/.claude/skills/` (for all your projects) or into `.claude/skills/` inside one project.
 
